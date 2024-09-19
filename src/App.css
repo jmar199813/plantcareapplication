@@ -1,0 +1,47 @@
+/* src/styles.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  height: 100vh; /* Full height for vertical centering */
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  background-color: #f0f0f0; /* Optional background color */
+}
+
+.container {
+  text-align: center; /* Center text inside the container */
+  padding: 20px;
+  border: 1px solid #ccc; /* Optional border */
+  border-radius: 10px; /* Optional rounded corners */
+  background-color: white; /* White background for the container */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Optional shadow */
+  max-width: 600px; /* Set the maximum width for the container */
+  width: 100%; /* Allow the container to take full width up to the max */
+  margin: 20px; /* Margin for spacing around the container */
+  position: relative; /* Needed for absolute positioning of the form */
+}
+
+.form-container {
+  padding: 20px;
+  background-color: white; /* White background for the form */
+  border-radius: 10px; /* Optional rounded corners */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Optional shadow */
+  margin-bottom: 20px; /* Space below the form */
+}
+
+.plant-list-container {
+  max-height: 600px; /* Set the maximum height for the plant list */
+  overflow-y: auto; /* Enable vertical scrolling if content exceeds max height */
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  margin-right: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px; /* Rounded corners for inputs */
+}
