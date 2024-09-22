@@ -4,3 +4,8 @@
   margin: auto; /* Center the container */
   padding: 20px; /* Add padding if needed */
 }
+
+h2 {
+  font-weight: bold;
+  font-family: cursive;
+}
