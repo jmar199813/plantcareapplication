@@ -1,19 +1,3 @@
-I started to create this app for all the lovely ladies who love to take care of their plants
-
-It was also both a way for me to get better with Git and React
-
-I plan to make this available on mobile at some point because everyone has a smart phone nowadays
-
-Once I get everything working correctly I will start to style it (so far it works 95% as intended)
-
-Plants are kind of like humans and they require care at different times/frequency so I added a "details" tab for the user to click into to add more information
-
-This is meant to be more of a casual use app for everyday people. If I was making it for farmers I would have designed the UI more like a spreadsheet
-
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
